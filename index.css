@@ -1,0 +1,130 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head2{
+    display: flex;
+    align-items: center;
+    column-gap: 90px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+.head2>a{
+    text-decoration: none;
+}
+.head1{
+    color: rgb(60, 7, 110);
+    font-size: 50px;
+}
+.contact{
+    border: 2px solid black;
+    padding: 5px 30px;
+    background-color: rgb(60, 7, 110);
+    color: white;
+    box-shadow: 5px 5px 10px rgb(107, 103, 103);
+}
+.navbar1{
+    display: flex;
+    font-size: 50px;
+    column-gap: 50px;
+    margin: 100px 250px 100px 250px ;
+}
+.navbar1>p{
+    font-size: large;
+}
+.navbar1>img{
+    width: 40%;
+}
+.template{
+    color:rgb(60, 7, 110) ;
+}
+#span1{
+    color: white;
+    border: 2px solid black;
+    background-color:rgb(60, 7, 110) ;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 10px rgb(107, 103, 103);
+}
+#span2{
+    border: 2px solid black;
+    background-color:white;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 10px rgb(107, 103, 103);
+}
+.navbar2 > h1{
+    font-size: 80px;
+    align-items: center;
+    margin-top: 200px;
+    justify-content: space-around 100px;
+    padding:2em 8.5em 0.8em 8.5em; 
+    color:rgb(60, 7, 110);
+}
+.navbar2 > p{
+    font-size: 40px;
+    padding:0em 9em 0.8em 9em;
+}
+.startbtn{
+    padding: 10px 15em;
+    margin: 2em 40em;
+    justify-content: center;
+}
+.startbtn > span{
+    border: 2px solid black;
+    padding: 5px 20px;
+    font-size: 30px;
+    background-color:rgb(60, 7, 110);
+    color: white;
+    box-shadow: 5px 5px 10px rgb(107, 103, 103);
+}
+.navbar3{
+    display: flex;
+    padding: 10em 20em;
+    column-gap: 70px;
+}
+.lightnfast > h1{
+    font-size: 70px;
+    color: rgb(60, 7, 110);
+}
+.lightnfast > p{
+    font-size: 25px;
+    color: rgb(60, 7, 110);
+}
+.note{
+    display: flex;
+    column-gap: 17em;
+}
+.note > img{
+    width: 15%;
+}
+.data{
+    display: flex;
+    column-gap: 30px;
+    padding: 20px 0px ;
+}
+.navbar4{
+    display: flex;
+    font-size: 30px;
+    column-gap: 50px;
+    margin: 100px 250px 100px 250px ;
+    color: rgb(60, 7, 110);
+}
+.navbar5{
+    display: flex;
+    font-size: 30px;
+    column-gap: 50px;
+    margin: 500px 250px ;
+    color:rgb(60, 7, 110) ;
+}
+.navbar6{
+    display: flex;
+    font-size: 30px;
+    column-gap: 50px;
+    margin: 500px 250px ;
+    color:rgb(60, 7, 110) ;
+}
+.contactform{
+    margin: 1em 2em;
+}
+
